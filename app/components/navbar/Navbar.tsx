@@ -28,7 +28,7 @@ const Navbar = () => {
                           md:gap-0    
                   '>
                       <Link href='/' className={`${redressed.className} font-bold text-2xl`}>
-                          E-shop
+                          E~shop
                       </Link> 
                       <div className='hidden md:block'>
                           Search
